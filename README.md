@@ -4,6 +4,7 @@ a python script that extracts table and output as csv or xlsx from PDF files
 # Project Overview
 - reading PDF files with Camelot and extract information for specified areas
 - process loaded information with pandas and output as csv and xlsx
+- (additional features) processed csv has more felixibility in analytics or plots (using seaborn)
 - the project can be scalable to other pdf series that have fixed format
 - camelot has more flexibility to tweak table extraction, hence serving as a backup solution incase other tool fails to precess the pdf
 
